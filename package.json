@@ -1,0 +1,20 @@
+{
+  "name": "thoughtful",
+  "version": "0.0.0",
+  "description": "Technical Screen Quick Challenge",
+  "main": "src/index.mjs",
+  "scripts": {
+    "test": "node --test ./spec/test.mjs",
+    "tdd": "node --inspect-brk --test ./spec/test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/Studnicky/thoughtful.git"
+  },
+  "author": "a.j.studnicky@gmail.com",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Studnicky/thoughtful/issues"
+  },
+  "homepage": "https://github.com/Studnicky/thoughtful#readme"
+}
